@@ -3,3 +3,4 @@ saber
 archer
 lancer
 rider
+berserker
