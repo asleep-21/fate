@@ -5,3 +5,4 @@ lancer
 rider
 berserker
 caster
+assassin
