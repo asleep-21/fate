@@ -1,3 +1,4 @@
 ruler
 saber
 archer
+lancer
