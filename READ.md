@@ -4,3 +4,4 @@ archer
 lancer
 rider
 berserker
+caster
